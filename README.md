@@ -22,22 +22,27 @@
 - <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
+Launch Event Viewer
 
-<p align="center">
-Launch the Virtual Machine Event Viewer: 
-https://i.imgur.com/DbRSt5p.png
+![DbRSt5p](https://github.com/user-attachments/assets/c2ba290e-be61-44cf-89a1-ded96a620454)
+
 
 Use PowerShell script to extract metadata from Windows Event Viewer
-https://i.imgur.com/tjSNnbw.png
+
+ ![tjSNnbw](https://github.com/user-attachments/assets/8a78566c-4d15-401d-a915-5d0121a1abfe)
+
 
 Configure Log Analytics Workspace in Azure
-https://i.imgur.com/fDB5QIn.png
+![fDB5QIn](https://github.com/user-attachments/assets/356fb4ba-a925-4f7e-8954-55293ca46d15)
+
 
 Configure Workbook
-https://imgur.com/9e282b4a-0ff9-458c-af4f-1eec1bfac004
+![EdotUe6](https://github.com/user-attachments/assets/cd11ec5e-803a-4de7-b03f-5203ba9e8d02)
+
 
 World Map displaying global attack data
-https://i.imgur.com/y5kTvi4.png
+![y5kTvi4](https://github.com/user-attachments/assets/216ee18b-5e07-4602-a819-dc018fe4945a)
+
 
 
  
